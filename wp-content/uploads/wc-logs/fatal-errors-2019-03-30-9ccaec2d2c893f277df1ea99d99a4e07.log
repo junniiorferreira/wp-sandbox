@@ -1,0 +1,8 @@
+2019-03-30T23:55:56+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\ambdev\wp-content\plugins\correios-offline/admin/class-correios-offline-admin.php' (include_path='C:\xampp\php\PEAR'), em C:\xampp\htdocs\ambdev\wp-content\plugins\correios-offline\includes\class-correios-offline.php, na linha 117
+
+2019-03-30T23:55:58+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\ambdev\wp-content\plugins\correios-offline/admin/class-correios-offline-admin.php' (include_path='C:\xampp\php\PEAR'), em C:\xampp\htdocs\ambdev\wp-content\plugins\correios-offline\includes\class-correios-offline.php, na linha 117
+
+2019-03-30T23:56:03+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\ambdev\wp-content\plugins\correios-offline/admin/class-correios-offline-admin.php' (include_path='C:\xampp\php\PEAR'), em C:\xampp\htdocs\ambdev\wp-content\plugins\correios-offline\includes\class-correios-offline.php, na linha 117
+
+2019-03-30T23:56:03+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\ambdev\wp-content\plugins\correios-offline/admin/class-correios-offline-admin.php' (include_path='C:\xampp\php\PEAR'), em C:\xampp\htdocs\ambdev\wp-content\plugins\correios-offline\includes\class-correios-offline.php, na linha 117
+
